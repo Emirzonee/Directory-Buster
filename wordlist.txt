@@ -1,0 +1,10 @@
+admin
+login
+test
+backup
+uploads
+images
+panel
+dashboard
+config
+admin_panel
