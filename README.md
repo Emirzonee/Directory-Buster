@@ -21,5 +21,5 @@ Kullanım
 
 Yasal Uyarı
 Bu araç tamamen eğitim amaçlıdır ve sadece izinli olunan sistemlerde (kendi yerel sunucunuzda veya test sitelerinde) kullanılmalıdır. 
-
+Deneme için http://testphp.vulnweb.com web sitesini kullabilirsiniz.
 Emircan Bingöl
